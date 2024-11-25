@@ -10,7 +10,7 @@
 
 
 	
-## <picture><img src = "https://avatars.githubusercontent.com/u/100171168?v=4" width = 50px></picture> **About me**
+## <!--  <picture><img src = "https://avatars.githubusercontent.com/u/100171168?v=4" width = 50px>  </picture> --> **About me**
 
 <picture> <img align="right" src="https://github.com/CRUFTY/CRUFTY/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
