@@ -68,6 +68,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CRUFTYY/CRUFTYY/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CRUFTYY/CRUFTYY/output/github-snake.svg" alt="Snake animation" />
 
 ###
