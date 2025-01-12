@@ -1,25 +1,21 @@
 <div align="center">
-  <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/users/844310623706021969" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <a href="https://discord.com/users/844310623706021969" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
 
-
-
 ###
-
-<br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CRUFTYY.CRUFTYY&"  />
+  <img src="https://profile-counter.glitch.me/CRUFTYY/count.svg?"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -53,7 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
 </div>
 
 ###
@@ -72,8 +67,12 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/21khg7w9e5zi8fpx08d478owt">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21khg7w9e5zi8fpx08d478owt&count=3&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21khg7w9e5zi8fpx08d478owt&count=0&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/CRUFTYY/CRUFTYY/output/snake.svg" alt="Snake animation" />
 
 ###
