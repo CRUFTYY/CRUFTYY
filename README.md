@@ -22,24 +22,16 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<!-- Se abre un párrafo con alineación a la izquierda -->
+<!-- 
 <p align="left">
 
-  <!-- Presentación inicial del autor -->
-  I'm CRUFTY from Argentina<br><br> <!-- Dos saltos de línea para separar visualmente -->
-
-  <!-- Línea con emoji y frase sobre desarrollo personal -->
+  I'm CRUFTY from Argentina<br><br>
+  
   - 🔭I'm working on myself<br>
-
-  <!-- Línea con emoji y frase sobre lo que está aprendiendo -->
   - 📚 I'm currently learning computer forensics<br>
-
-  <!-- Línea con emoji y hobby -->
   - ⚡ In my free time I like to watch films.
-
-</p> <!-- Fin del párrafo -->
-
+</p> 
+-->
 
 ###
 
