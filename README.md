@@ -109,7 +109,11 @@ I am a developer from Argentina with a passion for building impactful software a
 ### My Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CRUFTYY&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=CRUFTYY&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" height="150" alt="github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRUFTYY&layout=compact&theme=dark&hide_border=true&bg_color=00000000" height="150" alt="top languages" />
+  </div>
+  <img src="https://streak-stats.demolab.com?user=CRUFTYY&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
 
 <br/>
