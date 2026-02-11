@@ -110,8 +110,8 @@ I am a developer from Argentina with a passion for building impactful software a
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=CRUFTYY&show_icons=true&theme=dark&hide_border=true" height="150" alt="github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRUFTYY&layout=compact&theme=dark&hide_border=true" height="150" alt="top languages" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CRUFTYY&theme=dark" height="150" alt="github stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CRUFTYY&theme=dark" height="150" alt="top languages" />
   </div>
   <img src="https://streak-stats.demolab.com?user=CRUFTYY&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
