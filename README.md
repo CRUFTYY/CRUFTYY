@@ -34,7 +34,7 @@ I'm CRUFTY, a developer from Argentina with a passion for building impactful sof
   <tr>
     <td align="center" width="50%">
       <a href="#">
-        <img src="./assets/pragma-logo.png" width="100" alt="Pragma Logo" />
+        <img src="./assets/pragma-logo.svg" width="100" alt="Pragma Logo" />
       </a>
       <br/>
       <b>Pragma</b>
