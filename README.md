@@ -37,7 +37,7 @@ I am a developer from Argentina with a passion for building impactful software a
         <img src="./assets/pragma-logo.svg" width="100" alt="Pragma Logo" />
       </a>
       <br/>
-      <b>Pragma</b>
+      <a href="https://pragma-c.vercel.app/"><b>Pragma</b></a>
       <br/>
       <br/>
       A capital governance system designed for rational investors. It acts as a cohesive portfolio tracker and decision-making framework, allowing users to centralize assets, log investment theses, and simulate macro scenarios.
@@ -47,7 +47,7 @@ I am a developer from Argentina with a passion for building impactful software a
         <img src="./assets/habitos-logo.png" width="100" alt="Habitos.online Logo" />
       </a>
       <br/>
-      <b>Habitos.online</b>
+      <a href="https://habitos.online/"><b>Habitos.online</b></a>
       <br/>
       <br/>
       An AI-powered productivity ecosystem that correlates sleep, wellbeing, and focus metrics to generate actionable insights. Features a privacy-first architecture and cross-platform performance.
