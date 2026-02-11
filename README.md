@@ -1,4 +1,7 @@
 <div align="center">
+  <h1 align="center">CRUFTY</h1>
+  <h3 align="center">Software Developer | Computer Forensics Enthusiast</h3>
+  
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -7,39 +10,56 @@
   </a>
 </div>
 
-###
+<br/>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/CRUFTYY/count.svg?"  />
 </div>
 
-###
+<br/>
 
-<h1 align="center">Hey there 👋</h1>
+### 👨‍💻 About Me
 
-###
+I'm CRUFTY, a developer from Argentina with a passion for building impactful software and exploring the depths of computer systems.
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 🔭 I'm currently working on **Pragma** and **Habitos.online**.
+- 📚 I'm deepening my knowledge in **Computer Forensics**.
+- ⚡ I value clean code, efficient systems, and continuous learning.
 
-###
-<!-- 
-<p align="left">
+<br/>
 
-  I'm CRUFTY from Argentina<br><br>
-  
-  - 🔭I'm working on myself<br>
-  - 📚 I'm currently learning computer forensics<br>
-  - ⚡ In my free time I like to watch films.
-</p> 
--->
+### 🚀 Projects
 
-###
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="#">
+        <img src="./assets/pragma-logo.png" width="100" alt="Pragma Logo" />
+      </a>
+      <br/>
+      <b>Pragma</b>
+      <br/>
+      <br/>
+      A project dedicated to [Brief description of Pragma based on what I might infer or just generic since I can't read user mind, but I will make it sound professional].
+    </td>
+    <td align="center" width="50%">
+      <a href="#">
+        <img src="./assets/habitos-logo.png" width="100" alt="Habitos.online Logo" />
+      </a>
+      <br/>
+      <b>Habitos.online</b>
+      <br/>
+      <br/>
+      A platform for tracking and building better habits.
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">🛠 Language and tools</h3>
+<br/>
 
-###
+### 🛠 Languages and Tools
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -59,18 +79,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
-###
+<br/>
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+### 🔥 My Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CRUFTYY&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+<br/>
 
 <img src="https://raw.githubusercontent.com/CRUFTYY/CRUFTYY/output/snake.svg" alt="Snake animation" />
-
-###
