@@ -41,6 +41,11 @@ I am a developer from Argentina with a passion for building impactful software a
       <br/>
       <br/>
       A capital governance system designed for rational investors. It acts as a cohesive portfolio tracker and decision-making framework, allowing users to centralize assets, log investment theses, and simulate macro scenarios.
+      <br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
     </td>
     <td align="center" width="50%">
       <a href="https://habitos.online/">
@@ -51,6 +56,11 @@ I am a developer from Argentina with a passion for building impactful software a
       <br/>
       <br/>
       An AI-powered productivity ecosystem that correlates sleep, wellbeing, and focus metrics to generate actionable insights. Features a privacy-first architecture and cross-platform performance.
+      <br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -60,23 +70,38 @@ I am a developer from Argentina with a passion for building impactful software a
 ### Languages and Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <table>
+    <tr>
+      <td align="center" width="120"><b>Languages</b></td>
+      <td align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><b>Frontend</b></td>
+      <td align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><b>Tools & OS</b></td>
+      <td align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -90,3 +115,10 @@ I am a developer from Argentina with a passion for building impactful software a
 <br/>
 
 <img src="https://raw.githubusercontent.com/CRUFTYY/CRUFTYY/output/snake.svg" alt="Snake animation" />
+
+<br/>
+<br/>
+
+<div align="center">
+  <sub>Built with ❤️ by CRUFTY</sub>
+</div>
