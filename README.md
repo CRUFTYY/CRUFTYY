@@ -18,46 +18,46 @@
 
 <br/>
 
-### 👨‍💻 About Me
+### About Me
 
-I'm CRUFTY, a developer from Argentina with a passion for building impactful software and exploring the depths of computer systems.
+I am a developer from Argentina with a passion for building impactful software and exploring the depths of computer systems.
 
-- 🔭 I'm currently working on **Pragma** and **Habitos.online**.
-- 📚 I'm deepening my knowledge in **Computer Forensics**.
-- ⚡ I value clean code, efficient systems, and continuous learning.
+- I am currently working on **Pragma** and **Habitos.online**.
+- I am deepening my knowledge in **Computer Forensics**.
+- I value clean code, efficient systems, and continuous learning.
 
 <br/>
 
-### 🚀 Projects
+### Projects
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="#">
+      <a href="https://pragma-c.vercel.app/">
         <img src="./assets/pragma-logo.svg" width="100" alt="Pragma Logo" />
       </a>
       <br/>
       <b>Pragma</b>
       <br/>
       <br/>
-      A project dedicated to [Brief description of Pragma based on what I might infer or just generic since I can't read user mind, but I will make it sound professional].
+      A capital governance system designed for rational investors. It acts as a cohesive portfolio tracker and decision-making framework, allowing users to centralize assets, log investment theses, and simulate macro scenarios.
     </td>
     <td align="center" width="50%">
-      <a href="#">
+      <a href="https://habitos.online/">
         <img src="./assets/habitos-logo.png" width="100" alt="Habitos.online Logo" />
       </a>
       <br/>
       <b>Habitos.online</b>
       <br/>
       <br/>
-      A platform for tracking and building better habits.
+      An AI-powered productivity ecosystem that correlates sleep, wellbeing, and focus metrics to generate actionable insights. Features a privacy-first architecture and cross-platform performance.
     </td>
   </tr>
 </table>
 
 <br/>
 
-### 🛠 Languages and Tools
+### Languages and Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -81,7 +81,7 @@ I'm CRUFTY, a developer from Argentina with a passion for building impactful sof
 
 <br/>
 
-### 🔥 My Stats
+### My Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CRUFTYY&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
