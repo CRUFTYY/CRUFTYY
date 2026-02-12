@@ -23,7 +23,7 @@
 I am a developer from Argentina with a passion for building impactful software and exploring the depths of computer systems.
 
 - I am currently working on **Pragma** and **Habitos.online**.
-- I am deepening my knowledge in **Computer Forensics**.
+- I am deepening my knowledge in **Data Science**.
 - I value clean code, efficient systems, and continuous learning.
 
 <br/>
