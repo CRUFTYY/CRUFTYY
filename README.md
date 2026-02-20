@@ -2,7 +2,7 @@
   <h1 align="center">CRUFTY</h1>
   <h3 align="center">Software Developer</h3>
   
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/elias-mateo/)" target="_blank">
+  <a href="https://www.linkedin.com/in/elias-mateo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/844310623706021969" target="_blank">
