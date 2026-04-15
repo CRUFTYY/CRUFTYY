@@ -22,7 +22,7 @@
 
 I am a developer from Argentina with a passion for building impactful software and exploring the depths of computer systems.
 
-- I am currently working on **Pragma** and **Habitos.online**.
+- I am currently working on *PRAGMA.investments** and **Habitos.online**.
 - I am deepening my knowledge in **Data Science**.
 - I value clean code, efficient systems, and continuous learning.
 
@@ -37,7 +37,7 @@ I am a developer from Argentina with a passion for building impactful software a
         <img src="./assets/pragma-logo.svg" width="100" alt="Pragma Logo" />
       </a>
       <br/>
-      <a href="https://pragma-c.vercel.app/"><b>Pragma</b></a>
+      <a href="https://pragma-c.vercel.app/"><b>PRAGMA.investments</b></a>
       <br/>
       <br/>
       A capital governance system designed for rational investors. It acts as a cohesive portfolio tracker and decision-making framework, allowing users to centralize assets, log investment theses, and simulate macro scenarios.
