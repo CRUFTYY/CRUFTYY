@@ -145,5 +145,5 @@ I am a developer from Argentina with a passion for building impactful software a
 <br/>
 
 <div align="center">
-  <sub>Built with ❤️ by CRUFTY</sub>
+  <sub></sub>
 </div>
